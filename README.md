@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dheeraj%20Jain&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20JavaScript%20Specialist&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Dheeraj%20Jain&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20JavaScript%20Specialist&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Engineer+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+TypeScript+Expert+%E2%9A%A1;PostgreSQL+%7C+Prisma+%7C+MongoDB+Architect;Building+Production-Grade+Web+Apps+%F0%9F%8C%90;Clean+Code+%7C+Scalable+Systems+%7C+Great+UX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=30&lines=Full+Stack+Engineer+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+TypeScript+Expert+%E2%9A%A1;PostgreSQL+%7C+Prisma+%7C+MongoDB+Architect;Building+Production-Grade+Web+Apps+%F0%9F%8C%90;Clean+Code+%7C+Scalable+Systems+%7C+Great+UX)](https://git.io/typing-svg)
 
 <br/>
 </div>
