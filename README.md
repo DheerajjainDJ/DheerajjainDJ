@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&height=30&lines=Full+Stack+Engineer+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+TypeScript+Expert+%E2%9A%A1;PostgreSQL+%7C+Prisma+%7C+MongoDB+Architect;Building+Production-Grade+Web+Apps+%F0%9F%8C%90;Clean+Code+%7C+Scalable+Systems+%7C+Great+UX)](https://git.io/typing-svg)
 
 <br/>
+
 </div>
 
 ---
@@ -17,16 +18,52 @@
 const dheeraj: Engineer = {
   name: "Dheeraj Jain",
   title: "Full Stack Engineer",
-  stack: ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL", "MongoDB"],
+  stack: [
+    "Javascript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "PostgreSQL",
+    "MongoDB",
+  ],
   auth: "Clerk",
   orm: "Prisma",
-  ui: ["shadcn/ui", "MUI", "Tailwind CSS", "Syncfusion"],
+  ui: ["shadcn/ui", "Bootstrap", "MUI", "Tailwind CSS", "Syncfusion"],
+  cs: ["Data Structures & Algorithms", "Object Oriented Programming"],
   focus: "Scalable architecture · Clean code · Great developer experience",
   aiTools: ["Claude", "ChatGPT", "Antigravity", "OpenAI Codex"],
   superpower: "AI-augmented development for 10x productivity",
   contact: "dheerajjain5366@gmail.com",
 };
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `< Featured Projects />`
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🚀 Career Pilot</h3>
+      <p>An AI-powered career guidance platform to help users navigate their professional journey with smart recommendations.</p>
+      <a href="https://career-pilot-new.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-Career_Pilot-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎬 Moviesverse</h3>
+      <p>A sleek movie discovery app with rich browsing experience, powered by a live movies API with search and filtering.</p>
+      <a href="https://moviesverse2023.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-Moviesverse-10A37F?style=for-the-badge&logo=netlify&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -94,6 +131,8 @@ const dheeraj: Engineer = {
   <img src="https://img.shields.io/badge/AI--Augmented_Developer-blueviolet?style=for-the-badge&logo=sparkles&logoColor=white"/>
   <img src="https://img.shields.io/badge/10x_Productivity-7C3AED?style=for-the-badge&logo=lightning&logoColor=white"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `< Connect />`
 
