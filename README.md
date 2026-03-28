@@ -54,7 +54,7 @@ const dheeraj: Engineer = {
       <h3>🎬 CineScope</h3>
       <p>A sleek movie discovery app with rich browsing experience, powered by a live movies API with search and filtering.</p>
       <a href="https://cine-scope-blue.vercel.app" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-Moviesverse-10A37F?style=for-the-badge&logo=netlify&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Live_Demo-Cinescope-10A37F?style=for-the-badge&logo=netlify&logoColor=white"/>
       </a>
     </td>
   </tr>
